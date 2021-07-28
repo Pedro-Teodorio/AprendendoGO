@@ -1,3 +1,3 @@
 # AprendendoGO
 
-- Aqui Ficaram Todos Exercicios Feito em Go
+- Todos Exercicios Feitos em Go

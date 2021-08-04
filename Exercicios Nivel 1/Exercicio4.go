@@ -5,15 +5,15 @@ import (
 	"fmt"
 )
 
-type num int
+type number int
 
-var x num
+var p number
 
 func main() {
 
-	fmt.Printf("%v\n%T\n", x, x)
+	fmt.Printf("%v\n%T\n", p, p)
 
-	x = 42
+	p = 42
 
-	fmt.Println(x)
+	fmt.Println(p)
 }

@@ -5,9 +5,9 @@ import (
 	"fmt"
 )
 
-var x int
-var y string
-var z bool
+var a int
+var b string
+var c bool
 
 func main() {
 

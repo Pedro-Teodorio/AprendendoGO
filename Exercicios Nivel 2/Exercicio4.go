@@ -12,7 +12,7 @@ import (
 )
 
 func main() {
-	h := 200
+	h := 895
 
 	fmt.Printf("Valor decimal:%d\nValor Binário:%b\nValor HexaDecimal:%#x\n\n", h, h, h)
 
